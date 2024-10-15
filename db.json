@@ -1,0 +1,56 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Robert Brown",
+      "email": "robert.brown@example.com"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Green",
+      "email": "alice.green@example.com"
+    },
+    {
+      "id": 2,
+      "name": "David White",
+      "email": "david.white@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Sophie Black",
+      "email": "sophie.black@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Chris Red",
+      "email": "chris.red@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Megan Blue",
+      "email": "megan.blue@example.com"
+    }
+  ]
+}
